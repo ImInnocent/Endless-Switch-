@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dd31aa1ccc483ed4dbdd63fd88302744
+timeCreated: 1461472559
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mainPage: {fileID: 13180524, guid: 53ea150b2b690cf44bf9e7669d017e1e, type: 2}
+  - gamePage: {fileID: 13116050, guid: 4ec193753c1f9174292066d508384f36, type: 2}
+  - logo: {fileID: 13103306, guid: 051762aa639ba05469690e30c87e8709, type: 2}
+  - button_left: {fileID: 13197820, guid: b6e9cdbd2204f3342bf2493117e1bf5c, type: 2}
+  - button_right: {fileID: 13107310, guid: ee81985ea6f44de44a248526b1172a6c, type: 2}
+  - score_board: {fileID: 13114750, guid: ade0703446aca9e45a8f77beb55141ef, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
